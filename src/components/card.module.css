@@ -1,0 +1,42 @@
+.box{
+    /* border:1px solid blue; */
+    height:350px;
+    width:40%;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* background:orange */
+}
+.box2{
+    /* border:1px solid orange; */
+    display:flex;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+.logo{
+    height:40px;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+.box3{
+    /* border:1px solid green; */
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 30px;
+}
+.box4{
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+.btn{
+    background: black;
+    color:white;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height:30px
+}
